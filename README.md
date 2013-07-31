@@ -19,5 +19,5 @@ CocoaMarkdown
  
  Happy Markdowning,
  
- Ben Syverson
+ Ben Syverson  
  Chicago, 2013
