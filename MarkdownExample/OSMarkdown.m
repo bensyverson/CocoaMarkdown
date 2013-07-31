@@ -1079,7 +1079,7 @@
 							 if ([pre hasPrefix:@"  "]) return [pre substringFromIndex:2];  // $pre =~ s/^  //mg;
 							 return pre;
 						 }]];
-						 return [NSString stringWithFormat:@"<blockquote>\n$%@\n</blockquote>\n\n", bq];
+						 return [NSString stringWithFormat:@"<blockquote>\n%@\n</blockquote>\n\n", bq];
 						 
 					 }]];
 
