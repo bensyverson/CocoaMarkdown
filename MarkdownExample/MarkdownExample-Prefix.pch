@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MarkdownExample' target in the 'MarkdownExample' project
+//
+
+#ifdef __OBJC__
+	#import <Cocoa/Cocoa.h>
+#endif
